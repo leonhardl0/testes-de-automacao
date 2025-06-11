@@ -34,4 +34,4 @@ scroll_page(navegador, 400)
 time.sleep(2)
 
 navegador.quit()  
-# O código navega até o site da Apotiguar, seleciona a região 'Grande São Luís', aceita os cookies, preenche o campo de busca com "Cadeira de Balanço", clica no botão de busca, rola a página e aguarda antes de fechar o navegador.
+# o código navega até o site da Apotiguar, seleciona a região 'Grande São Luís', aceita os cookies, preenche o campo de busca com "Cadeira de Balanço", clica no botão de busca, rola a página e aguarda antes de fechar o navegador
