@@ -28,4 +28,4 @@ for elemento_a in elementos_a:
     time.sleep(2)
 
 navegador.quit() 
-# O código navega até o site da Apotiguar, seleciona a região 'Grande São Luís', aceita os cookies, abre cada link de elemento 'a' em uma nova aba e aguarda 2 segundos em cada aba antes de fechar o navegador.
+# o código navega até o site da Apotiguar, seleciona a região 'Grande São Luís', aceita os cookies, abre cada link de elemento 'a' em uma nova aba e aguarda 2 segundos em cada aba antes de fechar o navegador
