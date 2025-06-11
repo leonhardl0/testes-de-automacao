@@ -21,4 +21,4 @@ botao_cookies.click()
 time.sleep(2)
 
 navegador.quit()  
-# O código navega até o site da Apotiguar, seleciona a região 'Grande São Luís', aceita os cookies e fecha o navegador.
+# o código navega até o site da Apotiguar, seleciona a região 'Grande São Luís', aceita os cookies e fecha o navegador
