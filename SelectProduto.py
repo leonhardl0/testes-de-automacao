@@ -49,5 +49,5 @@ link_finalizar_compra.click()
 time.sleep(2)
 
 navegador.quit()  
-# O código executa uma série de ações automatizadas no site da Apotiguar e aguarda antes de fechar o navegador.
-#Adiciona produto no carrinho e vai para opções de finalizar compra.
+# o código executa uma série de ações automatizadas no site da Apotiguar e aguarda antes de fechar o navegador
+# adiciona produto no carrinho e vai para opções de finalizar compra
